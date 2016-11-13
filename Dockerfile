@@ -1,4 +1,4 @@
-FROM ditaot/dita-ot-i18n-base
+FROM ditacommunity/dita-ot-i18n-base
 MAINTAINER Eliot Kimber "ekimber@contrext.com"
 USER root
 VOLUME /opt/dita-ot/DITA-OT
